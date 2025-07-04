@@ -2,7 +2,7 @@
 - Allows Anthropic Claude to view your screen and answer questions.
 - Contains both a Chrome extension that allows Claude to view your tabs, and a Notability clone that allows Claude to view your notetaking and help answer questions.
 - Uses the Anthropic App and not the API, allowing you to ask questions for free.
-<img width="1183" alt="claudeMCPKhanAcademyDemo" src="https://github.com/user-attachments/assets/b17fb547-fe78-47e7-8c00-77f46a711bf8" />
+<img width="1183" alt="claudeMCPKhanAcademyDemo" src="https://github.com/user-attachments/assets/8426729b-d701-478a-b9e3-6a7d24704ef9" />
 
 
 # Setup w/ Claude Desktop Client
