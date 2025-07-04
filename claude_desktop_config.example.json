@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "screenshots": {
+      "command": "node",
+      "args": [
+        "/Users/anish/GitHub/Screen-MCP/mcp-server/server.js"
+      ]
+    }
+  }
+}

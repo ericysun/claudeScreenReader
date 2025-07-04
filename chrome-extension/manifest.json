@@ -1,0 +1,29 @@
+{
+  "manifest_version": 3,
+  "name": "Screen Capture Extension",
+  "version": "1.0",
+  "description": "Captures and sends screenshots to the server",
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "storage",
+    "tabs",
+    "system.cpu"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "icons": {
+    "16": "AppIcon16x16.png",
+    "32": "AppIcon32x32.png",
+    "48": "AppIcon48x48.png",
+    "128": "AppIcon128x128.png"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  }
+} 
