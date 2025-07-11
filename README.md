@@ -1,4 +1,5 @@
 <img width="845" height="217" alt="Screenshot 2025-07-10 at 9 38 03 PM" src="https://github.com/user-attachments/assets/4a257d53-8161-4a61-bca4-febdbd8f7a40" />
+
 # Claude Screen Reader
 - Allows Anthropic Claude to view your screen and answer questions.
 - Contains both a Chrome extension that allows Claude to view your tabs, and a Notability clone that allows Claude to view your notetaking and help answer questions.
