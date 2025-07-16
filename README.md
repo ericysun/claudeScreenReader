@@ -18,8 +18,9 @@
 6) Run `npm i` in the `mcp-server` directory to get packages installs.
 7) Edit the user ID in the `mcp-server/server.js` file to your id
 8) Restart the Claude Desktop App to save changes
-
 9) Talk to Claude! Ask it whats on your screen!
+
+Note: Photos sent to Claude are stored in a MongoDB database. You will need to create a database and enter the info in the path `nextjs-app/pages/api/admin.js`
 
 #### A Few Troubleshooting Tips:
 - The Chrome extension can only allow Claude to see what you have open in Google Chrome. So, for example, if the Slack app is open, Claude won't be able to see it. But if you go to the Slack mobile site, it will be able to see the webpage contents.
